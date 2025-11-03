@@ -1,0 +1,25 @@
+{
+  "titulo": "Inventario",
+  "items": [
+    {
+      "id": 1,
+      "nombre": "Teclado",
+      "stock": 12
+    },
+    {
+      "id": 2,
+      "nombre": "Ratón",
+      "stock": 7
+    },
+    {
+      "id": 3,
+      "nombre": "Monitor",
+      "stock": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Jander",
+      "stock": 1000
+    }
+  ]
+}
